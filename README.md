@@ -1,0 +1,2 @@
+# EPPL-rea-y-Per-metro-de-un-circulo-mis-im-genes-
+Aquí guardo mis imágenes de área y perímetro de un circulo, lucidchart, tldraw y colab 
